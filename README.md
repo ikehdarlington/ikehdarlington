@@ -1,5 +1,5 @@
 👋 Hello, I am @ikehdarlington.
-👀 I am enthusiastic about Full Stack Web Development, Data Science, Machine Learning, and Artificial Intelligence.
+👀 I am enthusiastic about Full Stack Web Development, Data Analysis, Machine Learning, and Artificial Intelligence.
 🌱 Currently, I am expanding my skills in JQuery and Python.
 💞️ I am open to collaboration opportunities in these fields.
 📫 You can reach me at darlingtonikeh@gmail.com | ikehd@yahoo.com.
